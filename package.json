@@ -1,0 +1,27 @@
+{
+  "name": "newsfeed-channel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moz5691/newsfeed-channel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moz5691/newsfeed-channel/issues"
+  },
+  "homepage": "https://github.com/moz5691/newsfeed-channel#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "newsapi": "^2.4.0",
+    "pusher": "^2.2.0"
+  }
+}
